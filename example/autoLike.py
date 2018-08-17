@@ -2,7 +2,7 @@
 from LineTimeline import *
 import time
 
-client = LineTimeline("Your Token")
+client = LineTimeline("EvhxhUOYt9Tq0ooIzQV5.Y2BTmJl2+nKQvipLjEVsLq.toUiGoQ6GR4iEgqRnt1C7Oq9XSJat4+fh6x7O8fXsjg=")
 
 while True:
     feed = client.getFeed()
